@@ -1,5 +1,5 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=AB55A4&width=435&lines=Hey%F0%9F%91%8B%2C+It's+Nadeen" alt="Typing SVG" /></a></h1>
-<h2 align="center">a Passionate Computer Sciencec Fresh Graduate and a Cybersecurity Enthusiast💻. </h2>
+<h2 align="center">A Passionate Computer Science Fresh Graduate and a Cybersecurity Enthusiast💻. </h2>
 <br />
 <h4 align="center"> I like learning new things to coordinate better with new technologies and I love creating stuff. </h4>
 <br />
